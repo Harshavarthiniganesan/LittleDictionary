@@ -1,0 +1,64 @@
+.top-txt{
+  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+  font-size: 50px;
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+}
+.container{
+  margin: 50px;
+}
+.txt{
+  font-size: 35px;
+  font-weight: bold;
+
+}
+.input-box{
+ 
+    width: 300px;
+    height: 40px;
+    font-size: 18px;
+    text-align: center;
+    border-radius: 5px;
+    border: 2px solid #000000;
+  box-shadow: 2px 4px #000000;
+}
+
+.btns{
+   color: rgb(0, 0, 0);
+  border-radius: 10px;
+ padding:10px;
+ background-color: black;
+ color: white;
+  text-align: center;
+  font-size: 20px;
+  border: 2px solid white;
+
+ 
+}
+.btns:hover{
+background-color: #ffffff;
+color:rgb(0, 0, 0);
+  border: 2px solid rgb(0, 0, 0);
+
+
+}
+
+.btns-1{
+   color: rgb(0, 0, 0);
+  border-radius: 10px;
+ padding:5px;
+ background-color: black;
+ color: white;
+  text-align: center;
+  font-size: 20px;
+  border: 2px solid white;
+  width: 150px;
+
+}
+.btns-1:hover{
+background-color: #ffffff;
+color:rgb(0, 0, 0);
+  border: 2px solid rgb(0, 0, 0);
+
+
+}
